@@ -19,7 +19,7 @@ export default function App() {
         <Testimonials />
         <Gallery />
         <Contact />
-        <Footer />
+        {/* <Footer /> */}
         </div>
     )
 }
