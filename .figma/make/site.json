@@ -1,0 +1,10 @@
+{
+  "description": "Showcase catering services with an elegant website, allowing users to explore menus, book events, and contact the Divine's Ark team effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
