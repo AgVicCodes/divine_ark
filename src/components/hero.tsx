@@ -2,8 +2,8 @@ export default function Hero() {
     return (
         <section className="relative h-screen min-h-[680px] flex items-center pt-12 overflow-hidden">
             <img
-                src="src/images/buffet.jpg"
-                // src="https://images.unsplash.com/photo-1555244162-803834f70033?w=1800&h=1200&fit=crop&auto=format"
+                // src="src/images/buffet.jpg"
+                src="https://images.unsplash.com/photo-1555244162-803834f70033?w=1800&h=1200&fit=crop&auto=format"
                 alt="An abundant catering buffet spread with silver chafing dishes"
                 className="absolute inset-0 w-full h-full object-cover"
             />
