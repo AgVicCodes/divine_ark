@@ -1,12 +1,12 @@
-import Navbar from "../components/navbar";
 import Hero from "../components/hero";
 import About from "../components/about";
-import Services from "../components/services";
-import MenuHighlights from "../components/menu_highlights";
-import Testimonials from "../components/testimonials";
-import Gallery from "../components/gallery";
-import Contact from "../components/contact";
 import Footer from "../components/footer";
+import Navbar from "../components/navbar";
+import Contact from "../components/contact";
+import Gallery from "../components/gallery";
+import Services from "../components/services";
+import Testimonials from "../components/testimonials";
+import MenuHighlights from "../components/menu_highlights";
 
 export default function App() {
     return (
